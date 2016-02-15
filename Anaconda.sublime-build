@@ -1,0 +1,11 @@
+{
+  "path": "/home/daniel/anaconda2/bin",
+  "cmd": ["python", "$file"],
+  "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+  "selector": "source.python",
+  "env": {
+    "PYTHONPATH": "/home/daniel/Dev/caffe-nvidia/python",
+    "LD_LIBRARY_PATH": "/usr/local/cuda/lib64"
+  }
+}
+

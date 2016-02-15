@@ -1,0 +1,15 @@
+/*
+    Anaconda user settings
+*/
+{
+    // Maximum line length for pep8
+    "pep8_max_line_length": 180,
+
+    /*
+    Default python interpreter.
+
+    This can (and should) be overridden by project settings
+    */
+    "python_interpreter": "/home/daniel/anaconda2/bin/python2",
+
+}
