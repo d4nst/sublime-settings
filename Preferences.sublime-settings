@@ -28,6 +28,8 @@
 		"*.log",
 		"C:\\Dev\\Palmera Codes\\pimpampum\\node_modules*"
 	],
+	"tab_size": 4,
 	"tabs_medium": true,
-	"theme": "Afterglow.sublime-theme"
+	"theme": "Afterglow.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
