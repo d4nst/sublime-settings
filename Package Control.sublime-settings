@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"Anaconda",
+		"BracketHighlighter",
+		"CMake",
+		"Git",
+		"GitGutter-Edge",
+		"Markdown Extended",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Package Control",
+		"Pretty JSON",
+		"Protocol Buffer Syntax",
+		"rsub",
+		"SelectUntil",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Sublimerge Pro",
+		"Text Pastry",
+		"Theme - Afterglow",
+		"Tomorrow Color Schemes"
+	]
+}
