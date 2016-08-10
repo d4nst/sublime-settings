@@ -1,0 +1,27 @@
+{
+	"online_lookup":
+	[
+		{
+			"title": "English definition",
+			"url": "http://www.wordreference.com/definition/{query}"
+		},
+		{
+			"title": "English Spanish",
+			"url": "http://www.wordreference.com/es/translation.asp?tranword={query}"
+		},
+		{
+			"title": "English synonyms",
+			"url": "http://www.wordreference.com/synonyms/{query}"
+		}
+	],
+	"output_directory": true,
+	"path":
+	[
+		"/media/storage/texlive/2016/bin/x86_64-linux"
+	],
+	"type_scrolling": true,
+	"zotero": true,
+	"zotero_cite_key_pattern": "{Author}{Year}{Title}",
+	"zotero_user_id": "2569788",
+	"zotero_user_key": "2yhinFEGPh93kb8xBXwVUfKd"
+}

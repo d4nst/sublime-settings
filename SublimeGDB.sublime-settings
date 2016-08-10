@@ -1,0 +1,8 @@
+{
+   
+    "settings":
+    {
+         "sublimegdb_workingdir": "${folder:${project_path:face_matching_example}}",
+         "sublimegdb_commandline": "gdb --interpreter=mi ./face_matching_example"
+    }
+}
