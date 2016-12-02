@@ -7,6 +7,7 @@
 	[
 		"Alignment",
 		"Anaconda",
+		"AutoFileName",
 		"BracketHighlighter",
 		"Clang Format",
 		"CMake",
@@ -20,6 +21,7 @@
 		"Non Text Files",
 		"Package Control",
 		"Pretty JSON",
+		"Print to HTML",
 		"Protocol Buffer Syntax",
 		"rsub",
 		"SelectUntil",
@@ -28,8 +30,14 @@
 		"SublimeLinter-contrib-clang",
 		"SublimeREPL",
 		"Sublimerge 3",
+		"Swift",
 		"Text Pastry",
 		"Theme - Afterglow",
 		"Tomorrow Color Schemes"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3",
+		"https://github.com/titoBouzout/SideBarEnhancements/tree/st3"
 	]
 }

@@ -32,13 +32,13 @@
 			{
 				"args":
 				{
-					"text": "1 x5	"
+					"text": "1 x5\t"
 				},
 				"command": "text_pastry_step",
-				"text": "1 x5	"
+				"text": "1 x5\t"
 			},
 			"key": "a214d75a1454443c73e8a20bc11b0064",
-			"label": "1 x5	"
+			"label": "1 x5\t"
 		},
 		{
 			"data":
@@ -105,16 +105,28 @@
 			},
 			"key": "b14a7b8059d9c055954c92674ce60032",
 			"label": "_"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "i 1 9"
+				},
+				"command": "text_pastry_step",
+				"text": "i 1 9"
+			},
+			"key": "72effa43b1a0de98470aca3e12cb0515",
+			"label": "i 1 9"
 		}
 	],
 	"last_command":
 	{
 		"args":
 		{
-			"text": "_",
-			"threshold": 3
+			"text": "i 1 9"
 		},
-		"command": "text_pastry_insert_text",
-		"text": "_"
+		"command": "text_pastry_step",
+		"text": "i 1 9"
 	}
 }

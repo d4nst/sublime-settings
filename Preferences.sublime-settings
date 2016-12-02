@@ -45,7 +45,7 @@
 	],
 	"open_externally_patterns":
 	[
-		"*.pdf",
+		"*.pdf"
 	],
 	"tab_size": 4,
 	"tabs_medium": true,
